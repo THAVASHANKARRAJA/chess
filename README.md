@@ -11,7 +11,7 @@ A GUI chess game including a simple AI, all written in Python.
     * [Installation](#installation)
     * [Commands](#commands)
 4. [Credits](#credits)
-5. [License](#license)
+5. 
 
 <a name="about"></a>
 ## About
@@ -34,7 +34,7 @@ To install this project, make sure you have the correct version of Python and Py
 - Follow the code below to create virtual environment and install the necessary libraries.
 (Currently tested on Python 3.7.9 with Pygame 2.0.0dev8 and Python 3.8.2 with Pygame 2.0.0 on macOS Catalina)
 ```
-git clone https://github.com/boosungkim/chess.git
+git clone https://github.com/THAVASHANKARRAJA/chess.git
 cd chess
 python3 -m venv venv
 source venv/bin/activate
@@ -49,10 +49,6 @@ pip install pygame
 
 <a name="credits"></a>
 ## Credits
-All three engines were written by Boo Sung Kim, but the move log and the GUI engine code was initially inspired by Eddie Sharick and the AI engine was originally inspired by Sebastian Lague's pseudocode.
 
-Special thanks to Savid for helping me beta test the chess game many times.
+Special thanks to selva for helping me beta test the chess game many times.
 
-<a name="license"></a>
-## License
-This project is licensed under the GNU GPLv3 License - see the [LICENSE](./LICENSE) file for details.
