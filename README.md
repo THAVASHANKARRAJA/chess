@@ -51,7 +51,10 @@ pip install pygame
 ## Credits
 
 Team members:
+</br>
 Valan Antony
+</br>
 Yamuna devi
+</br>
 Yamini
 
