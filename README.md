@@ -50,5 +50,8 @@ pip install pygame
 <a name="credits"></a>
 ## Credits
 
-Special thanks to selva for helping me beta test the chess game many times.
+Team members:
+Valan Antony
+Yamuna devi
+Yamini
 
