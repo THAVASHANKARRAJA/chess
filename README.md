@@ -11,7 +11,7 @@ A GUI chess game including a simple AI, all written in Python.
     * [Installation](#installation)
     * [Commands](#commands)
 4. [Credits](#credits)
-5. 
+
 
 <a name="about"></a>
 ## About
