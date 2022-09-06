@@ -34,7 +34,7 @@ To install this project, make sure you have the correct version of Python and Py
 - Follow the code below to create virtual environment and install the necessary libraries.
 (Currently tested on Python 3.7.9 with Pygame 2.0.0dev8 and Python 3.8.2 with Pygame 2.0.0 on macOS Catalina)
 ```
-git clone https://github.com/THAVASHANKARRAJA/chess.git
+git clone https://github.com/YAMINI-R-P/chess.git
 cd chess
 python3 -m venv venv
 source venv/bin/activate
@@ -56,5 +56,5 @@ Valan Antony
 </br>
 Yamuna devi
 </br>
-Yamini
+Thavashanarraja
 
